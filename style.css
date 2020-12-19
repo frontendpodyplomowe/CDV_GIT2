@@ -4,21 +4,21 @@ p {
 }
 
 .introduction{
-    border: 5px solid brown;
+    border: 5px solid yellowgreen;
     color: rgb(43, 16, 16);
     text-align: right;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 .mainPart{
-    font-size: 20px;
+    font-size: 14px;
     font-weight: bold;
-    color: grey;
+    color: red;
     text-align: right;
 }
 
 .ending{
-    background-color: lightsalmon;
-    padding-top: 20px;
+    background-color: lightblue;
+    padding-top: 40px;
     text-align: right;
 }
