@@ -1,5 +1,5 @@
 p {
-    background-color: red;
+    background-color: yellow;
     margin: 0;
 }
 
@@ -18,7 +18,7 @@ p {
 }
 
 .ending{
-    background-color: lightsalmon;
+    background-color: red;
     padding-top: 20px;
     text-align: right;
 }
